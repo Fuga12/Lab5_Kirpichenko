@@ -1,0 +1,3 @@
+#### Лабораторная работа №5 Кирпиченко В.Л.
+Для запуска сервера: python server.py
+Для запуска клиента: python client.py <server_host> <server_port> <filename>
